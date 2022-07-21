@@ -1,0 +1,37 @@
+body {
+	margin: 0;
+	background: #999;
+	color: white;
+}
+
+strong a {
+	margin: 20px;
+}
+
+h2 {
+	margin: 20px;
+}
+
+h3 {
+	margin: 20px;
+}
+
+audio {
+	margin: 10px 20px;
+}
+
+div {
+	margin: 20px;
+	background: slategrey;
+	padding: 5px;
+}
+
+body a {
+	margin: 20px;
+	color: white;
+}
+
+footer {
+	margin: 20px;
+	color: palegoldenrod;
+}
