@@ -8,6 +8,25 @@ body {
 	color: white;
 }
 
+nav {
+	background: darkkhaki;
+	margin: 0 20px;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	width: 115px;
+	height: 5px;
+}
+
 strong a {
 	margin: 20px;
 }
